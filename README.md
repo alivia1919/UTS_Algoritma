@@ -1,4 +1,4 @@
-#UTS_Algoritma
+# UTS_Algoritma
 
 **NAMA 	: NUR ALI MUHAMMAD**
 
@@ -6,9 +6,9 @@
 
 **NIM	: 311810355**
 
-##soal1.cpp
+## soal1.cpp
 
-**Alur Program**
+**Alur Program :**
 
 1. Deklarasi variable `A,B,X,Y` sebagai variable input
 2. Menbaca input keyboard `cin >> A >> B >> X >> Y >>`
@@ -19,7 +19,7 @@
 8. Disini akan terjadi pengulangan untuk mencari nilai **X**
 9. Dan terakhir akan tercetak `X = X + A = (hasilnya)`.
 
-**Code Program**
+**Code Program :**
 
 ```c++
 
@@ -65,7 +65,9 @@ int main()
 
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/UTS_Algoritma/master/soal1/hasil2.png)
 
-##soal2.cpp
+## soal2.cpp
+
+**Alur Program :**
 
 1. Deklarasi varaible input `N,X,T, Batas;` sebagai inputnya
 2. Memasukan nilai **N** yaitu 2 digit terakhir dari NIM saya, maka **N** adalah `55` dan batasnya adalah 195 dari hasil jumlah `N + 140`
@@ -75,7 +77,7 @@ int main()
 6. Kemudian menghitung `T = T + X;` hasilnya adalah **75**
 7. Kemudian cetak variable **T**.
 
-**Code Program**
+**Code Program :**
 
 ```c++
 
