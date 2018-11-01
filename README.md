@@ -1,11 +1,12 @@
-# UTS_Algoritma
+#UTS_Algoritma
 
 **NAMA 	: NUR ALI MUHAMMAD**
+
 **KELAS	: TI.18.A.2**
+
 **NIM	: 311810355**
 
-**soal1.cpp**
-
+##soal1.cpp
 
 **Alur Program**
 
@@ -64,7 +65,7 @@ int main()
 
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/UTS_Algoritma/master/soal1/hasil2.png)
 
-**soal2.cpp**
+##soal2.cpp
 
 1. Deklarasi varaible input `N,X,T, Batas;` sebagai inputnya
 2. Memasukan nilai **N** yaitu 2 digit terakhir dari NIM saya, maka **N** adalah `55` dan batasnya adalah 195 dari hasil jumlah `N + 140`
@@ -102,4 +103,5 @@ cout <<"Hasilnya adalah : " << T;
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/UTS_Algoritma/master/soal2/hasil.png)
 
 
-**TERIMA KASIH** # praktikum3
+**TERIMA KASIH** 
+# UTS_Algoritma
