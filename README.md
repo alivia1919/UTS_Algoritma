@@ -23,8 +23,6 @@
 
 ```c++
 
-#include<iosteam>
-
 #include<iostream>
 
 using namespace std;
